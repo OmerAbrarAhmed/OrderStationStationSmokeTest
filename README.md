@@ -1,1 +1,2 @@
-# OrderStationStationSmokeTest
+# OmarAutomationScript
+Hungerstation Automation Cases Repository 
